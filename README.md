@@ -57,11 +57,3 @@ This project focuses on cleaning, preprocessing, and feature engineering of an O
 
 ---
 
-## 🚀 Next Steps (Day-15)
-- Perform full EDA  
-- Build Fraud Classification ML Models  
-- Evaluate using ROC-AUC, Precision, Recall  
-
----
-
-⭐ *Follow for more projects. Feel free to fork or reuse for learning!*  
